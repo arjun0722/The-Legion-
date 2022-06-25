@@ -1,0 +1,176 @@
+.lenovo{
+    display: flex;
+    /* width: 50%; */
+    /* border: 2px solid red; */
+    margin: -8px;
+    padding: 0px;
+    /* background-color: black; */
+}
+.box1 img{
+    height: 28px;
+    border: 2px solid rgb(195, 190, 223);
+
+}
+.box2{
+    margin-left: 882px;
+    /* background-color: red; */
+}
+.info img{
+    height: 15px;
+}
+header{
+    /* background-color: black; */
+    display: flex;
+    margin: 9px;
+}
+.search input{
+    width: 340px;
+    margin-left: 236px;
+   
+  }
+ 
+  
+
+nav ul{
+    display: flex;
+    justify-content:flex-start ;
+    align-items: center;
+    /* text-decoration: none; */
+    height: 50px;
+    margin: -10px;
+}
+nav ul li{
+    list-style: none;
+    /* color: white; */
+    padding: inherit;
+}
+.Accessories{
+    display: flex;
+    /* border: 2px solid red; */
+    width: 100%;
+    background-color: rgb(235, 235, 235);
+   
+    
+}
+.Accessories nav ul{
+    /* background-color: black; */
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Accessories nav ul li{
+    /* color: white; */
+    margin: 8px;
+}
+.charger{
+    background-color: rgb(216, 240, 240);
+    height: 50px;
+    margin: 4px;
+    align-items: initial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .headphone img{
+    display: flex;
+    height: 749px;
+  
+  }
+  .speaker{
+      display: flex;
+      background-color: rgb(190, 190, 190);
+      /* border: 2px solid red; */
+      justify-content: space-evenly;
+      align-items: center;
+      height: 40px;
+     
+  }
+  .box3, .box4, .box5, .box6, .box7{
+/* background-color: rgb(219, 204, 204); */
+font-size: 18px
+;
+  }
+.diffrent{
+justify-content: space-between;
+    
+/* border: 2px solid red; */
+display: flex;
+}
+.diffrent .box8, .box10, .box11, .box12{
+    
+    /* border: 2px solid black; */
+    
+}
+.box8 img,  .box10 img, .box11 img, .box12 img{
+    height: 190px;
+    /* margin: 12px;
+    padding: 9px;
+     */
+}
+.pin h1{
+    text-align: center;
+}
+.mouse{
+    display: flex;
+    justify-content: space-around;
+
+}
+.box13, .box14{
+    
+}
+.box13 img , .box14 img{
+    height: 600px;
+    border: 1px solid rgb(172, 172, 223);
+}
+.scrollbar h1{
+    display: flex;
+    justify-content: center}
+    .phone{
+        display: flex;
+    }
+    .box15, .box16{
+        width: 80%;
+    }
+    .box15 img{
+    height: 425px;
+    border: 1px solid rgb(178, 152, 202);
+    }
+    .iphone{
+        display: flex;
+        justify-content: space-around;
+    }
+    .box17 img, .box18 img, .box19 img{
+height: 220px;
+border: 1px solid rgb(247, 247, 138);
+    }
+    .brands{
+        display: flex;
+    }
+    .boat{
+        display: flex;
+        justify-content: center;
+        margin: 11px;
+        
+    }
+    .brands{
+        display: flex;
+        justify-content: space-around;
+    }
+    .delivery{
+        display: flex;
+        margin: 100px;
+        justify-content: space-around;
+
+    }
+    footer{
+        text-align: center ;
+        margin: 23px;
+        
+    }
+    .final{
+        display: flex;
+        
+        justify-content: space-around;
+        background-color: rgb(245, 243, 243);
+    }
